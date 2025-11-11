@@ -22,3 +22,14 @@ hours_to_moon = miles_to_moon / shuttle_speed_mph
 days_to_moon = hours_to_moon / 24
 print(shuttle_name, "will take", days_to_moon, "days to reach the Moon" )
 
+num = 7
+
+if num % 2 == 0:
+   if num % 2 == 1:
+      print("odd") 
+
+
+
+
+for j in range(5):
+    print("Index:", j)
